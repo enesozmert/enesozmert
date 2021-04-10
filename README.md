@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<!--
 **enesozmert/enesozmert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 `$ npm install LinkedIn` <https://www.linkedin.com/in/enes-%C3%B6zmert-3a0915102/>
@@ -16,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
