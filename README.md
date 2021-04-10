@@ -3,6 +3,9 @@
 <!--
 **enesozmert/enesozmert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+`$ npm install LinkedIn` <https://www.linkedin.com/in/enes-%C3%B6zmert-3a0915102/>
+`$ npm install EMail(Outlook)` en-es111@hotmail.com
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
